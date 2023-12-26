@@ -26,3 +26,10 @@ name = "day04"
 test = false
 bench = false
 path = "day04/src/main.rs"
+
+
+[[bin]]
+name = "day05"
+test = false
+bench = false
+path = "day05/src/main.rs"
